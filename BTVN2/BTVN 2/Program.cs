@@ -1,4 +1,7 @@
 ﻿using System.ComponentModel.Design;
+using System.Collections.Generic;
+using System;
+
 
 abstract class LibraryItem
 {
@@ -55,15 +58,48 @@ class Book: LibraryItem
 
     }
 }
+
+class LibraryCatalog
+{
+    public List<LibraryItem> items = new List<LibraryItem>();
+    public void AddItems(LibraryItem item)
+    {
+        items.Add(item);
+    }
+    public void FindItems(string query)
+    {
+        var results = items.FindAll(item => item.title.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                                             item.author.Contains(query, StringComparison.OrdinalIgnoreCase));
+        Console.WriteLine("\nSearch Results:");
+        if (results.Count > 0)
+        {
+            
+            foreach (var item in results)
+            {
+                Console.WriteLine($"- {item.title} by {item.author} (Available: {item.available})");
+            }
+        }
+        else
+        {
+            Console.WriteLine($"  \nNo items found.");
+        }
+    }
+}
+
+
 class Program
 {
     static void Main(string[] args)
     {
+        LibraryCatalog catalog = new LibraryCatalog();
         Book book1 = new Book("Fiction", "The Great Gatsby", "F. Scott Fitzgerald", new DateTime(1925, 4, 10), true);
 
-        // Test checkout and return functionality
         book1.Checkout();
         book1.return_item();
         book1.return_item();
+        catalog.AddItems(book1);
+        catalog.FindItems("HuyenTrang");
+        // Test checkout and return functionality
+        
     }
 }

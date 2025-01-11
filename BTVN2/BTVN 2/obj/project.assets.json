@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SE06303\\Kì 5\\APDP\\BTVN 2\\BTVN 2\\BTVN 2.csproj",
+      "projectUniqueName": "D:\\SE06303\\Kì5\\APDP\\BTVN2\\BTVN 2\\BTVN 2.csproj",
       "projectName": "BTVN 2",
-      "projectPath": "D:\\SE06303\\Kì 5\\APDP\\BTVN 2\\BTVN 2\\BTVN 2.csproj",
+      "projectPath": "D:\\SE06303\\Kì5\\APDP\\BTVN2\\BTVN 2\\BTVN 2.csproj",
       "packagesPath": "C:\\Users\\Trang\\.nuget\\packages\\",
-      "outputPath": "D:\\SE06303\\Kì 5\\APDP\\BTVN 2\\BTVN 2\\obj\\",
+      "outputPath": "D:\\SE06303\\Kì5\\APDP\\BTVN2\\BTVN 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trang\\AppData\\Roaming\\NuGet\\NuGet.Config",

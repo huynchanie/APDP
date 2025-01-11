@@ -1,0 +1,19 @@
+# Loại trừ các thư mục Visual Studio
+.vs/
+.vscode/
+
+# Loại trừ các thư mục biên dịch
+bin/
+obj/
+
+# Loại trừ các file hệ thống
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.log
+*.tmp
+
+# Loại trừ file ẩn hệ thống
+.DS_Store
+Thumbs.db
