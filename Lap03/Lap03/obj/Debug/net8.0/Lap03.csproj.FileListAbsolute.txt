@@ -1,0 +1,14 @@
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\Lap03.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\Lap03.AssemblyInfoInputs.cache
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\Lap03.AssemblyInfo.cs
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\Lap03.csproj.CoreCompileInputs.cache
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\bin\Debug\net8.0\Lap03.exe
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\bin\Debug\net8.0\Lap03.deps.json
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\bin\Debug\net8.0\Lap03.runtimeconfig.json
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\bin\Debug\net8.0\Lap03.dll
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\bin\Debug\net8.0\Lap03.pdb
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\Lap03.dll
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\refint\Lap03.dll
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\Lap03.pdb
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\Lap03.genruntimeconfig.cache
+D:\SE06303\Kì 5\APDP\Lap03\Lap03\obj\Debug\net8.0\ref\Lap03.dll

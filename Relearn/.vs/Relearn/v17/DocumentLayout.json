@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE06303\\K\u00EC 5\\APDP\\Relearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03715627-88B1-4AD9-8F80-39B8005146B2}|Relearn\\Relearn.csproj|d:\\se06303\\k\u00EC 5\\apdp\\relearn\\relearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03715627-88B1-4AD9-8F80-39B8005146B2}|Relearn\\Relearn.csproj|solutionrelative:relearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SE06303\\K\u00EC 5\\APDP\\Relearn\\Relearn\\Program.cs",
+              "RelativeDocumentMoniker": "Relearn\\Program.cs",
+              "ToolTip": "D:\\SE06303\\K\u00EC 5\\APDP\\Relearn\\Relearn\\Program.cs",
+              "RelativeToolTip": "Relearn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:41:17.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

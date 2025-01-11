@@ -1,0 +1,14 @@
+D:\SE06303\Kì 5\APDP\BT1\BT1\bin\Debug\net8.0\BT1.exe
+D:\SE06303\Kì 5\APDP\BT1\BT1\bin\Debug\net8.0\BT1.deps.json
+D:\SE06303\Kì 5\APDP\BT1\BT1\bin\Debug\net8.0\BT1.runtimeconfig.json
+D:\SE06303\Kì 5\APDP\BT1\BT1\bin\Debug\net8.0\BT1.dll
+D:\SE06303\Kì 5\APDP\BT1\BT1\bin\Debug\net8.0\BT1.pdb
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\BT1.AssemblyInfoInputs.cache
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\BT1.AssemblyInfo.cs
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\BT1.csproj.CoreCompileInputs.cache
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\BT1.dll
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\refint\BT1.dll
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\BT1.pdb
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\BT1.genruntimeconfig.cache
+D:\SE06303\Kì 5\APDP\BT1\BT1\obj\Debug\net8.0\ref\BT1.dll

@@ -1,0 +1,14 @@
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\bin\Debug\net8.0\Relearn.exe
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\bin\Debug\net8.0\Relearn.deps.json
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\bin\Debug\net8.0\Relearn.runtimeconfig.json
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\bin\Debug\net8.0\Relearn.dll
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\bin\Debug\net8.0\Relearn.pdb
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\Relearn.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\Relearn.AssemblyInfoInputs.cache
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\Relearn.AssemblyInfo.cs
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\Relearn.csproj.CoreCompileInputs.cache
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\Relearn.dll
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\refint\Relearn.dll
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\Relearn.pdb
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\Relearn.genruntimeconfig.cache
+D:\SE06303\Kì 5\APDP\Relearn\Relearn\obj\Debug\net8.0\ref\Relearn.dll
